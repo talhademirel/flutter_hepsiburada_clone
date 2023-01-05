@@ -1,16 +1,5 @@
 # flutter_hepsiburada_clone
 
-A new Flutter application.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![device-2023-01-05-220252](https://user-images.githubusercontent.com/79982521/210861216-5a66f628-4119-4534-8680-542d9eff7360.png)
+![Screenshot_1672944993](https://user-images.githubusercontent.com/79982521/210861231-f24e3ca1-709c-48b5-a1ee-496f9cab0e42.png)
